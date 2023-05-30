@@ -15,7 +15,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- MAC OS</b> 
+- Windows 10 (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
