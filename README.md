@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Intake process begins when a user or customer submits a support request through one of the available channels, such as email, web form, or a customer portal. osTicket automatically creates a new ticket based on the information provided by the user. This includes details like the user's name, contact information, and a description of the issue or request. During the Intake step, the ticket can be assigned various attributes, such as a unique ticket number, creation date and time.
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once an agent takes ownership of a ticket, they can communicate directly with the user who submitted the ticket. osTicket provides a threaded communication system where agents can send and receive messages within the ticket interface. This facilitates ongoing communication and collaboration between agents and users. Throughout the ticket lifecycle, agents can provide updates to the user, keeping them informed about the progress of their request. These updates can include status changes, resolutions, or additional information required from the user. 
 </p>
 <br />
 
@@ -47,6 +47,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents work towards resolving the issue based on their investigation and troubleshooting efforts. They provide a solution or workaround to the user, ensuring that it is clearly documented within the ticket for future reference. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the issue is successfully resolved and the user confirms their satisfaction or acceptance of the solution, the agent can close the ticket. Closing the ticket indicates that the issue has been resolved to the user's satisfaction and that no further action is required.
 </p>
 <br />
