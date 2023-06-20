@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SI2KXMk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The Intake process begins when a user or customer submits a support request through one of the available channels, such as email, web form, or a customer portal. osTicket automatically creates a new ticket based on the information provided by the user. This includes details like the user's name, contact information, and a description of the issue or request. During the Intake step, the ticket can be assigned various attributes, such as a unique ticket number, creation date and time.
@@ -36,7 +36,7 @@ The Intake process begins when a user or customer submits a support request thro
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WJHs7Uv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 SEV-A (1 hour, 24/7)
@@ -44,7 +44,7 @@ SEV-A (1 hour, 24/7)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/53WD1lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 SEV-B (4 hours, 24/7)
@@ -52,7 +52,7 @@ SEV-B (4 hours, 24/7)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BDebl0o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 SEV-C (8 hours, Business hours)
